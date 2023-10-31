@@ -1,9 +1,7 @@
-<h1 align="center">Hello World 👋, I'm Shaiful Bappy</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+![Header](./profile_banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappybd&label=Profile%20views&color=0e75b6&style=flat" alt="bappybd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bappybd" alt="bappybd" /></a> </p>
 
 - 🔭 I’m currently working on [Web3 NFT Collector's Profile](https://github.com/Pixelation-Labs/pixelmon-collectors-profile-ui)
 
